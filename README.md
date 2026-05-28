@@ -1,28 +1,33 @@
-# BinNode / egoquat
-
-Software engineer focused on Unreal Engine, C++, real-time 3D simulation, sensor visualization, digital twin workflows, and graphics tools.
+# egoquat / BinNode
+Software engineer focused on C++, Unreal Engine, real-time 3D simulation, sensor visualization, and digital twin tools.
 
 ## Current Focus
-
 - Unreal Engine automation
-- Datasmith / Revit / BIM metadata pipeline
+- Datasmith and BIM workflow
+- Revit metadata processing
 - LiDAR and drone simulation
-- Browser-based 3D geospatial prototypes
+- 3D web visualization
 - C++ graphics and navigation systems
 
 ## Featured Projects
-
-### Binnode Spatial Prototypes
-Browser-based 3D prototypes for simulation, sensors, terrain, and digital twin workflows.
+### BinNode Spatial Prototypes
+3D web prototypes for simulation, sensors, terrain, and geospatial visualization.
 
 ### Unreal Datasmith Automation Tools
-Python and C++ tools for automating Datasmith import, packaging, and patch manifest workflows.
+Tools for Datasmith import, packaging, and build automation in Unreal Engine.
 
 ### Revit Datasmith Metadata Injector
-A tool concept for injecting Revit/BIM metadata into Datasmith-based workflows.
+A workflow concept for connecting Revit metadata with Datasmith scenes.
 
-### Lightmap Generator Sample
-Legacy C++ lightmap generation sample written around 2008-2010.
+### C++ Lightmap Generator Sample
+Legacy C++ lightmap generation sample based on custom graphics code.
 
 ### Navigation Tool Test
-A custom A* navigation and spline movement editor prototype.
+Custom A* navigation and spline movement editor prototype.
+
+## Tech Stack
+C++, Unreal Engine, Python, C#, JavaScript, Three.js, Datasmith, Revit API, DirectX, OpenGL
+
+## Links
+- Website: https://prototype.binnode.workers.dev/
+- GitHub: https://github.com/egoquat
