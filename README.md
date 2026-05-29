@@ -9,9 +9,9 @@ Software engineer focused on C++, Unreal Engine, real-time 3D simulation, sensor
 - C++ graphics and navigation systems
 
 ## Featured Projects
-- BinNode Spatial Prototypes
 - Unreal Datasmith Automation
 - Revit Datasmith Metadata Injector
 - C++ Lightmap Generator Sample
 - Navigation Tool Test, Custom A* navigation and spline movement
 - Tech Stack, C++, Unreal Engine, Python, C#, JavaScript, Three.js, Datasmith, DirectX, OpenGL
+- BinNode Spatial Prototypes
