@@ -1,4 +1,3 @@
-# BinNode
 Software engineer focused on C++, Unreal Engine, real-time 3D simulation, sensor visualization, and digital twin tools.
 
 ## Current Focus
