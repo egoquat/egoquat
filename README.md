@@ -1,17 +1,18 @@
 Software engineer focused on C++, Unreal Engine, real-time 3D simulation, sensor visualization, and digital twin tools.
 
 ## Current Focus
-- Unreal Engine 5 PixelStreaming, SSR
-- Unreal Engine 5 automation 
+- Unreal Engine 5 PixelStreaming, automation, SSR
 - Datasmith and BIM workflow
 - Revit metadata processing
-- LiDAR and drone simulation
-- C++ graphics and navigation systems
+- LiDAR, drone simulation, and point cloud visualization
+- Geospatial 3D web prototypes
+- C++, graphics, shaders, navigation, and simulation systems
 
 ## Featured Projects
-- Unreal Datasmith Automation
+- TestDronePointCloud, Unreal Engine 5.6 drone and point cloud simulation test.
+- Browser-based 3D prototypes for LiDAR drone visualization and Geo 3D Earth exploration.
 - Revit Datasmith Metadata Injector
-- C++ Lightmap Generator Sample
-- Navigation Tool Test, Custom A* navigation and spline movement
-- Tech Stack, C++, Unreal Engine, Python, C#, JavaScript, Three.js, Datasmith, DirectX, OpenGL
-- BinNode Spatial Prototypes
+- Custom A* navigation and Bezier spline movement editor built with Unity and C#.
+- C++ lightmap generation sample from earlier graphics engine work.
+- Unreal Engine 5 custom global render target shader test.
+- Tech Stack, C++ UnrealEngine C# Unity Navigation LiDAR DigitalTwin Python Cesium Datasmith Revit DirectX OpenGL
