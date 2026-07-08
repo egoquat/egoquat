@@ -1,7 +1,7 @@
 Software engineer focused on C++, Unreal Engine, real-time 3D simulation, sensor visualization, and digital twin tools.
 
 ## Current Focus
-- Unreal Engine 5 PixelStreaming, automation, server side rendering engine.
+- Unreal Engine 5 PixelStreaming, automation, multi-sessioning server side rendering engine.
 - LiDAR, drone simulation, and point cloud visualization
 - Geospatial 3D web prototypes
 - C++, graphics, shaders, navigation, and simulation systems
